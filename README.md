@@ -1,4 +1,4 @@
-# Translate gui
+# Translate Gui
 
 以下の4サイトの翻訳(英→日)をSeleniumによって取得します．
 - Google翻訳
