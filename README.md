@@ -11,7 +11,7 @@
 
 
 ## Setup
-config.iniの，Driver_pathにChromeDriverのパスを入力します．
+config.iniのDriver_pathにChromeDriverのパスを入力します．
 
 
 ## Note
